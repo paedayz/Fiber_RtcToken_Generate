@@ -6,6 +6,7 @@ require (
 	github.com/AgoraIO-Community/go-tokenbuilder v1.0.0
 	github.com/andybalholm/brotli v1.0.2 // indirect
 	github.com/gofiber/fiber/v2 v2.8.0 // indirect
+	github.com/joho/godotenv v1.3.0
 	github.com/klauspost/compress v1.12.2 // indirect
 	github.com/valyala/fasthttp v1.24.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
